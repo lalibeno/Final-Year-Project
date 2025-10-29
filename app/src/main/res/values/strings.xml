@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Angle Eyes</string>
+    <string name="instruction">Welcome Sir
+    Speak Map for  Destination instructions by real-time voice command
+        Speak OCR for Optical Character Recognition
+     Speak Map Location sharing for Location sharing to relatives or fellows
+    Speak Currency detection for Currency detection
+    </string>
+    //currency detection
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <string-array name="instruction_array">
+        <item>Welcome Sir</item>
+        <item>Speak find and name word for  getting Destination instructions by real-time voice command</item>
+        <item>Speak Optical character word for Optical Character Recognition</item>
+        <item>Speak sharing location word Location sharing for Location sharing to relatives or fellows</item>
+        <item>Speak  location and name word  for looking Location  of relatives or fellows</item>
+        <item>Speak operation guide for guidence about app</item>
+        <item>Speak Currency detection word for Currency detection</item>
+    </string-array>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_access_location">Map</string>
+
+
+    <string name="mapbox_secretaccess_token">
+        sk.eyJ1Ijoic2FxaWIwMDEiLCJhIjoiY2tqZDgyb3hkODVjNzJycWpqNzEweXZjdCJ9.SfmENY10GYoktX9_QcaxyA</string>
+    <string name="mapbox_access_token">
+        pk.eyJ1Ijoic2FxaWIwMDEiLCJhIjoiY2tvbHZ2cXRkMGpndTJ5cXAwMDd2czR5OCJ9.a3wBmFj7sWlIleh2cWg3Pw</string>
+    <string name="title_activity_navigation_guide">Map</string>
+</resources>

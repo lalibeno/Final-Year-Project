@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909494296577",
+    "firebase_url": "https://blind-person-ocr.firebaseio.com",
+    "project_id": "blind-person-ocr",
+    "storage_bucket": "blind-person-ocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909494296577:android:24558a0a02a47443a7e000",
+        "android_client_info": {
+          "package_name": "com.example.angleeyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909494296577-r4q826cb0alc3477tlg8905nsage1mqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_5PMBLl0EP0Cs7vQSaaBGC3NfygkXBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909494296577-r4q826cb0alc3477tlg8905nsage1mqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

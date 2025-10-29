@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FC:29:29:9C:58:1E:4B:3B:3D:A0:B7:ED:7C:28:54:24:24:D4:BC:FA%3Bcom.example.angleeyes.LocationSharing
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.angleeyes.LocationSharing
+
+    SHA-1 certificate fingerprint:
+    FC:29:29:9C:58:1E:4B:3B:3D:A0:B7:ED:7C:28:54:24:24:D4:BC:FA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve"
+        translatable="false">AIzaSyDHKdF1T_AFbn_NzGDFgCXqSrScJaIiZBc</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".LocationSharing.GuideMeActivity">
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraZoom="21"/>
+
+</FrameLayout>
+
+
+
+
+
+
+
+<!--<androidx.coordinatorlayout.widget.CoordinatorLayout-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--xmlns:tools="http://schemas.android.com/tools"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--xmlns:mapbox="http://schemas.android.com/apk/res-auto"-->
+<!--tools:context=".VoiceGuidenceOverDirection.GuideMeActivity">-->
+<!--<com.mapbox.mapboxsdk.maps.MapView-->
+<!--    android:id="@+id/mapView"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    mapbox:mapbox_camerazoom="12"-->
+<!--    tools:ignore="MissingClass" />-->
+<!--</androidx.coordinatorlayout.widget.CoordinatorLayout>-->
+
+
