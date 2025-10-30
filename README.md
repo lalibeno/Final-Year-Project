@@ -19,4 +19,13 @@
 ## Installation & Setup  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/lalibeno/Final-Year-Project.git  
+   git clone https://github.com/lalibeno/Final-Year-Project.git
+
+/Final-Year-Project
+├─ app/             ← Android application module  
+├─ gradle/          ← Gradle wrapper & settings  
+├─ .gitignore  
+├─ build.gradle  
+├─ settings.gradle  
+└─ README.md
+
